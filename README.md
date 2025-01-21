@@ -1,2 +1,2 @@
 # python
-ython programs
+Python programs
